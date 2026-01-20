@@ -7,6 +7,7 @@
 安装依赖项：
 npm install
 
+services/geminiService.ts
 将 .env.local 文件中的 GEMINI_API_KEY 设置为您的 Gemini API 密钥
 
 运行应用：
